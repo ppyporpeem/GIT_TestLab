@@ -36,6 +36,7 @@ class Train( Transportation ):
       self.nost=nost
 
    def find_cost( self ):
+      return 5*self.nost
    
 # main program
 
